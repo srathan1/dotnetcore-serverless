@@ -1,0 +1,14 @@
+C:\devel\checkout\dotnetcore-serverless\bin\Debug\netcoreapp2.2\dotnetcore-serverless.deps.json
+C:\devel\checkout\dotnetcore-serverless\bin\Debug\netcoreapp2.2\dotnetcore-serverless.runtimeconfig.json
+C:\devel\checkout\dotnetcore-serverless\bin\Debug\netcoreapp2.2\dotnetcore-serverless.runtimeconfig.dev.json
+c:\devel\checkout\dotnetcore-serverless\bin\Debug\netcoreapp2.2\dotnetcore-serverless.dll
+c:\devel\checkout\dotnetcore-serverless\bin\Debug\netcoreapp2.2\dotnetcore-serverless.pdb
+c:\devel\checkout\dotnetcore-serverless\obj\Debug\netcoreapp2.2\dotnetcore-serverless.csprojAssemblyReference.cache
+c:\devel\checkout\dotnetcore-serverless\obj\Debug\netcoreapp2.2\dotnetcore-serverless.csproj.CoreCompileInputs.cache
+c:\devel\checkout\dotnetcore-serverless\obj\Debug\netcoreapp2.2\dotnetcore-serverless.RazorAssemblyInfo.cache
+c:\devel\checkout\dotnetcore-serverless\obj\Debug\netcoreapp2.2\dotnetcore-serverless.RazorAssemblyInfo.cs
+c:\devel\checkout\dotnetcore-serverless\obj\Debug\netcoreapp2.2\dotnetcore-serverless.AssemblyInfoInputs.cache
+c:\devel\checkout\dotnetcore-serverless\obj\Debug\netcoreapp2.2\dotnetcore-serverless.AssemblyInfo.cs
+c:\devel\checkout\dotnetcore-serverless\obj\Debug\netcoreapp2.2\dotnetcore-serverless.RazorTargetAssemblyInfo.cache
+c:\devel\checkout\dotnetcore-serverless\obj\Debug\netcoreapp2.2\dotnetcore-serverless.dll
+c:\devel\checkout\dotnetcore-serverless\obj\Debug\netcoreapp2.2\dotnetcore-serverless.pdb
